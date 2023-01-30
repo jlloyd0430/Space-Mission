@@ -28,6 +28,7 @@ h3 {
   margin-top: 15px;
 }
 
-th {
+th,
+td {
   color: #fff;
 }
